@@ -1,6 +1,6 @@
 {
-    "users": [
-        { "name": "John Doe", "email": "john@example.com" },
-        { "name": "Jane Smith", "email": "jane@example.com" }
-    ]
+  "users": [
+    { "username": "faiyaz mulla", "password": "PENTACON" },
+    { "username": "christopher chishela", "password": "PENTACON" }
+  ]
 }
